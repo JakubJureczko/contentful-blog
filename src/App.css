@@ -19,7 +19,6 @@
   border-radius: 2%;
   width: 70%;
   margin: 0 auto;
-  
 }
 
 .container {
@@ -27,7 +26,6 @@
   margin-left: 3em;
   margin-right: 3em;
 }
-
 
 .entry {
   display: flex;
@@ -48,9 +46,7 @@
   text-align: justify;
 }
 
-.entry img {
-  width: 100%;
-}
+
 
 .secondContainer {
   display: flex;
@@ -71,12 +67,14 @@
 
 .socialMedia {
   position: fixed;
-  bottom: 6%;
+  bottom: 4%;
+  
 }
 
 .arrowcont {
   position: fixed;
-  top: 45%;
+  bottom: 15%;
+  color: rgba(222, 222, 214, 0.9);
 }
 
 @media screen and (max-width: 760px) {
@@ -96,10 +94,7 @@
     padding-top: 3em;
   }
   .entry .image {
-    
     width: 100%;
-    
-    
   }
   .secondContainer {
     width: 100%;
@@ -124,12 +119,10 @@
   }
 
   .container {
-    
   }
   .phone {
     margin-top: 2em;
 
-    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -139,6 +132,32 @@
   .ar {
     padding-bottom: 1.5em;
   }
- 
- 
+}
+@media screen and (max-width: 1250px) {
+  .hidden {
+    display: none;
+  }
+}
+@media screen and (max-width: 900px) and (min-width: 761px) {
+  .arrowcont {
+    top: 82%;
+    color: rgba(222, 222, 214, 0.9);
+  }
+  .socialMedia {
+    bottom: 1%;
+  }
+}
+@media screen and (max-width: 760px) and (min-width: 550px) {
+  .entry .image {
+    width: 80%;
+  }
+  .secondContainer p {
+    width: 80%;
+  }
+  .entry h1 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto
+  }
+  
 }
