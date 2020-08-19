@@ -12,7 +12,7 @@ export default function SocialMedia() {
         backgroundColor="inherit"
         iconSize="3"
         roundness="0%"
-        url="https://some-website.com/my-social-media-url"
+        url="https://www.facebook.com"
         size="55"
       />
       <SocialMediaIconsReact
@@ -21,7 +21,7 @@ export default function SocialMedia() {
         backgroundColor="inherit"
         iconSize="3"
         roundness="0%"
-        url="https://some-website.com/my-social-media-url"
+        url="https://www.gmail.com"
         size="55"
       />
       <SocialMediaIconsReact
@@ -30,7 +30,7 @@ export default function SocialMedia() {
         backgroundColor="inherit"
         iconSize="3"
         roundness="0%"
-        url="https://some-website.com/my-social-media-url"
+        url="https://www.youtube.com"
         size="55"
       />
       <SocialMediaIconsReact
@@ -39,7 +39,7 @@ export default function SocialMedia() {
         backgroundColor="inherit"
         iconSize="3"
         roundness="0%"
-        url="https://some-website.com/my-social-media-url"
+        url="https://www.github.com"
         size="55"
       />
     </div>
