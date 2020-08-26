@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contentful-blog-project/static/css/main.341b574e.chunk.css",
+    "main.js": "/contentful-blog-project/static/js/main.4861cefa.chunk.js",
+    "main.js.map": "/contentful-blog-project/static/js/main.4861cefa.chunk.js.map",
+    "runtime-main.js": "/contentful-blog-project/static/js/runtime-main.81213151.js",
+    "runtime-main.js.map": "/contentful-blog-project/static/js/runtime-main.81213151.js.map",
+    "static/js/2.0140f6c3.chunk.js": "/contentful-blog-project/static/js/2.0140f6c3.chunk.js",
+    "static/js/2.0140f6c3.chunk.js.map": "/contentful-blog-project/static/js/2.0140f6c3.chunk.js.map",
+    "index.html": "/contentful-blog-project/index.html",
+    "precache-manifest.d588e9ed37a9c852c4375132e6b9a3d0.js": "/contentful-blog-project/precache-manifest.d588e9ed37a9c852c4375132e6b9a3d0.js",
+    "service-worker.js": "/contentful-blog-project/service-worker.js",
+    "static/css/main.341b574e.chunk.css.map": "/contentful-blog-project/static/css/main.341b574e.chunk.css.map",
+    "static/js/2.0140f6c3.chunk.js.LICENSE.txt": "/contentful-blog-project/static/js/2.0140f6c3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/contentful-blog-project/static/media/505.9fd8b6a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81213151.js",
+    "static/js/2.0140f6c3.chunk.js",
+    "static/css/main.341b574e.chunk.css",
+    "static/js/main.4861cefa.chunk.js"
+  ]
+}
