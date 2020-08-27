@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da3efd44b9ec79882e36d21c1c3cbb1d",
+    "revision": "ec6977e197da773bfc7f3ab923ffd312",
     "url": "/contentful-blog/index.html"
   },
   {
-    "revision": "6bda3f819fc0515653b8",
-    "url": "/contentful-blog/static/css/main.479ec3ea.chunk.css"
+    "revision": "8e99081368cd6072301e",
+    "url": "/contentful-blog/static/css/main.2f8ea7a1.chunk.css"
   },
   {
     "revision": "399735d90804fe9414d6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/contentful-blog/static/js/2.fc636d74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bda3f819fc0515653b8",
+    "revision": "8e99081368cd6072301e",
     "url": "/contentful-blog/static/js/main.89cba818.chunk.js"
   },
   {
