@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/contentful-blog/static/css/main.85bed479.chunk.css",
-    "main.js": "/contentful-blog/static/js/main.89cba818.chunk.js",
-    "main.js.map": "/contentful-blog/static/js/main.89cba818.chunk.js.map",
+    "main.js": "/contentful-blog/static/js/main.23cad763.chunk.js",
+    "main.js.map": "/contentful-blog/static/js/main.23cad763.chunk.js.map",
     "runtime-main.js": "/contentful-blog/static/js/runtime-main.7ebea66e.js",
     "runtime-main.js.map": "/contentful-blog/static/js/runtime-main.7ebea66e.js.map",
     "static/js/2.fc636d74.chunk.js": "/contentful-blog/static/js/2.fc636d74.chunk.js",
     "static/js/2.fc636d74.chunk.js.map": "/contentful-blog/static/js/2.fc636d74.chunk.js.map",
     "index.html": "/contentful-blog/index.html",
-    "precache-manifest.91e50ea8a4aa0f3459a1d311779adc82.js": "/contentful-blog/precache-manifest.91e50ea8a4aa0f3459a1d311779adc82.js",
+    "precache-manifest.551893066356723097b6b3347f3eabd1.js": "/contentful-blog/precache-manifest.551893066356723097b6b3347f3eabd1.js",
     "service-worker.js": "/contentful-blog/service-worker.js",
     "static/css/main.85bed479.chunk.css.map": "/contentful-blog/static/css/main.85bed479.chunk.css.map",
     "static/js/2.fc636d74.chunk.js.LICENSE.txt": "/contentful-blog/static/js/2.fc636d74.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7ebea66e.js",
     "static/js/2.fc636d74.chunk.js",
     "static/css/main.85bed479.chunk.css",
-    "static/js/main.89cba818.chunk.js"
+    "static/js/main.23cad763.chunk.js"
   ]
 }
